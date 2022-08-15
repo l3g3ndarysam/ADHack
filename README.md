@@ -1,5 +1,5 @@
 -- By l3g3ndary_sam
 
-The core exploits of my fav games.
+The core exploit source codes. (What makes the exploits work)
 
-Took a long time to make dont break
+Free to use, do not break.

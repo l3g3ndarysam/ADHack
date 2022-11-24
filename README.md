@@ -2,4 +2,7 @@
 
 The core exploit source codes. (What makes the exploits work)
 
-Free to use, do not break.
+DON'T EDIT THE FILES, EVERY CHARACTER WILL MAKE THIS WORK. IF YOU DELETE A CHARACTER IT IS GOING TO CRASH YOUR GAME.
+
+Don't run the exploits directly through executor.
+
